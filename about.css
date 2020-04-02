@@ -1,0 +1,187 @@
+
+body{
+    margin-left:auto;
+	margin-right:auto;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(94, 157, 209);
+}
+header{
+    width: 100%;
+    height: 170px;
+    background-color:#1e90ff;
+    position: fixed;
+    border-radius: 25px;
+   
+    
+    
+}
+nav{
+    width: 100%;
+    height: 38px;
+    background-color: black;
+    top: 186px;
+    position: fixed;
+    border-radius: 25px;
+    
+  
+
+}
+.fahim{
+    width: 140px;
+    height: 170px;
+    position: fixed;
+    border-radius: 25px;
+    
+    
+}
+
+.kweb{
+     width: 230px;
+     height: 170px;
+     right: 12px;
+     position: fixed;
+     border-radius: 20px;
+     animation-name:new;
+	animation-duration:3s;
+	animation-iteration-count:infinite;
+}
+@keyframes new{
+	0%{right:12px;}
+	50%{right:180px;transform:rotatey(180deg)}
+	100%{right:12px;}
+	
+}
+.kamalweb{
+    position: fixed;
+    font-family: fantasy;
+    font-size: 100px;
+    top: -17px;
+    left: 187px;
+    color: #d02955;
+    text-shadow: rgb(5, 0, 0) 5px 5px 4px;
+    
+
+
+}
+.TO{
+    position: fixed;
+    font-family: fantasy;
+    font-size: 40px;
+    top: 16px;
+    left: 289px;
+    color: red;
+    text-shadow: rgb(5, 0, 0) 5px 5px 4px;
+}
+.W{
+    position: fixed;
+    font-family: fantasy;
+    font-size: 60px;
+    top: -61px;
+    left: 141px;
+    color: black;
+    text-shadow: rgb(5, 0, 0) 5px 5px 4px;
+}
+#home{
+    
+    width: auto;
+    height: auto;
+    top: 194px;
+    left: 25px;
+    position: fixed;
+    border-radius: 5px;
+    
+}
+#about{
+
+    width: auto;
+    height: auto;
+    top: 194px;
+    left: 92px;
+    position: fixed;
+    border-radius: 5px;
+}
+#searchbutton{
+    width: auto;
+    height: auto;
+    top: 195px;
+    right: 276px;
+    position: fixed;
+    border-radius: 5px;
+}
+
+.facebook{
+    width: 40px;
+    height: 38px;
+    top: 186px;
+    right: 12px;
+    position: fixed;
+    border-radius: 25px;
+}
+.gmail{
+    width: 40px;
+    height: 38px;
+    top: 186px;
+    right: 60px;
+    position: fixed;
+    border-radius: 25px;
+}
+.search{
+    width: auto;
+    height: auto;
+    top: 195px;
+    right: 117px;
+    position: fixed;
+    border-radius: 5px;
+}
+
+.table3{
+    background-color:#1e90ff;
+    width:100%;
+    height: 100%;
+    top: 231px;
+
+    border-radius: 12px;
+    position: absolute;
+}
+.titlenot{
+    position: absolute;
+    left: 100px;
+    top: 48px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-shadow: 6px 6px 6px ;
+}
+
+.aboutme{
+width: auto;
+height: auto;
+}
+
+.fahimullahkamal{
+    width: 250px;
+    height: 261px;
+    top: 163px;
+    left: 0px;
+    position: absolute;
+    
+
+}
+
+.aboutnot{
+    color: blue;
+    font-family: fantasy;
+    font-size: 30px;
+    text-shadow: blue 3px 3px 3px;
+    left: 393px;
+    top: 152px;
+    position: absolute;
+}
+.COPYE{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+
+}
+
+    
